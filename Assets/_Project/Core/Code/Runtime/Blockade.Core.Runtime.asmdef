@@ -1,0 +1,19 @@
+{
+    "name": "Blockade.Core.Runtime",
+    "rootNamespace": "Blockade.Core.Runtime",
+    "references": [
+        "GUID:bb1ffefc3dfaace4eb1d1ecc2cf4e24a",
+        "GUID:a28e8ed336e96b444813ab50041fceaf",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:e0e5eeb7353b5194eb93f81aac4ce826"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
